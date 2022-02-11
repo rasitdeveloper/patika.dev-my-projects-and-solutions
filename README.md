@@ -17,7 +17,7 @@ Simple static recipe page with HTML.
 Simple static personal page with HTML.
 
 ### CSS_1
-CSS ile oyun dükkanı sayfası
+Simple static game shop page with CSS.
 
 ### CSS_2
 Designing "the google home page in 1998".
