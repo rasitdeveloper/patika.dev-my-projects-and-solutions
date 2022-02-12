@@ -1,5 +1,5 @@
 
-Due to an error on 11.2.2020, "kodluyoruzrepo" repository was deleted and on the same day this repo was created and all my projects and solutions were added again.
+Due to an error on 11.2.2022, "kodluyoruzrepo" repository was deleted and on the same day this repo was created and all my projects and solutions were added again.
 
 ### PATIKA_ILK_REPO
 First Patika Repo
