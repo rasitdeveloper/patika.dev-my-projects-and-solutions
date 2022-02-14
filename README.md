@@ -54,3 +54,6 @@ Live clock and welcome with JavaScript.
 
 ### JAVASCRIPT_2
 Creating a To Do List with JavaScript.
+
+### JAVASCRIPT_3
+Asian Kitchen's Menu
