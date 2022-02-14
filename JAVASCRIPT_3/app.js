@@ -88,7 +88,7 @@ let section_center = document.querySelector(".section-center")
 
 let countries = menu.map(({category}) => category) // A new list has been created that will only contain categories
 
-uniqCategoryName = [...new Set(countries)]; // Remove duplicates datas from countries
+uniqCategoryName = [...new Set(countries)]; // Remove duplicates data from countries
 
 const buttonCreate = () => {
   // Creating a categories buttons
